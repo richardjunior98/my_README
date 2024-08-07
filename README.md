@@ -2,8 +2,8 @@
 ### My name is Richard Castro Júnior
 - :pushpin: Master in Biometrics
 - :computer: I am currently PhD student
-- :radioactive: Specialized in Diagnostic and Therapeutic Innovations - Diagnostic Imaging
 - 🎓 Physics of Materials
+- :radioactive: Specialized in Diagnostic and Therapeutic Innovations - Diagnostic Imaging
 - 📖 I’m currently learning more about Python, R and Julia.
 
 
