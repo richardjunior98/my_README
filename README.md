@@ -12,15 +12,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Richard-MATLAB" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   <img align="center" alt="Thomas-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Richard-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Richard-LATEX" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">
   </div>
-  
-### Under Development
-
-<div>
-  <img align="center" alt="Richard-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Thomas-Julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg">
- </div>
 
  ##
  
