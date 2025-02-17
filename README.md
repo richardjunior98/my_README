@@ -4,7 +4,7 @@
 - :computer: I am currently PhD student
 - 🎓 Physics of Materials
 - :radioactive: Specialized in Diagnostic and Therapeutic Innovations - Diagnostic Imaging
-- 📖 I’m currently learning more about Python, R and Julia.
+- 📖 I’m currently learning more about Python, Data Science and Machine Learning.
 
 
 ### Main Languages
