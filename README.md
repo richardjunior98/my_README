@@ -19,7 +19,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Richard-LATEX" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">
-  <img align="center" alt="Richard-powerbi" height="30" width="40" src="https://media.datacamp.com/legacy/v1714478776/re388xshtgihucfiiavf.png">
+  <img align="center" alt="Richard-powerbi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
   </div>
 
  ##
