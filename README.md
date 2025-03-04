@@ -13,7 +13,13 @@
   <img align="center" alt="Richard-MATLAB" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   <img align="center" alt="Thomas-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Richard-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  </div>
+
+### Other Tools
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Richard-LATEX" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg">
+  <img align="center" alt="Richard-powerbi" height="30" width="40" src="https://media.datacamp.com/legacy/v1714478776/re388xshtgihucfiiavf.png">
   </div>
 
  ##
